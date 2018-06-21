@@ -1,0 +1,25 @@
+body{
+
+  font-family: sans-serif;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_hOizSuCVVmTzjkNJ7k4gB5j4PSSINgxi-kZTVTdT-g8H3-I);
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+h1,h2{
+  color: #666;
+}
+a{
+  color: blue;
+}
+p{
+background-color: #555;
+color: white;
+padding: 7px 5px 4px 0px;
+}
+
+.second{
+background-color: blue;
+color:red;
+padding-left: 10px;
+}
